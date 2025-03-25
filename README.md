@@ -9,6 +9,6 @@ The VL53L1X is a state-of-the-art, Time-of-Flight (ToF), laser-ranging sensor wi
     git clone https://github.com/Joserivera-tech/VL53L1X_driver_to_ESP32.git
     ```
 2. Include the driver files and main.c in your project.
-3. Imclude file paths to  your "CMakeList.txt" file
+3. Include file paths to  your `CMakeList.txt` file
 5. Modify `platform_esp32s3.h` to match your hardware setup if necessary.
 6. Compile and flash the firmware to your ESP32.
